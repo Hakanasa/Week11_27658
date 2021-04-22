@@ -1,0 +1,3 @@
+Aplikasi telah dicoba dan berjalan dengan baik melakukan GET.
+
+Retrofit merupakan client HTTP type-safe untuk Android dan Java. Retrofit memudahkan untuk terhubung ke layanan web REST dengan menerjemahkan API ke dalam interface Java. Permintaan GET telah dapat dieksekusi. Retrofit dibangun diatas beberapa library dan alat bantu lainnya. Retrofit tidak memiliki konverter JSON built-in untuk mengurai dari objek JSON ke Java. Sebagai gantinya, dapat didukung menggunakan library konverter JSON untuk menangani hal itu seperti yang telah ditambahkan dalam Grade.
